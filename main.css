@@ -1,0 +1,9 @@
+﻿img{
+    display:block;
+    margin:100px auto;
+    opacity:1;
+    transition: 1s;
+}
+img:hover{
+    opacity:0;
+}
